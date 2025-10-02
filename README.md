@@ -1,4 +1,4 @@
-# Experiments README — Robust Evaluation & Synthetic Data
+# Experiments — Robust Evaluation & Synthetic Data
 
 This README explains how to reproduce the experiments, evaluate robustness, and export results for the paper review. It covers: (1) **cross‑validation with tabular data**, (2) **synthetic data generation**, and (3) **reporting guidelines** to address reviewers’ concerns.
 
